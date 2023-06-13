@@ -21,7 +21,7 @@ _Creado por: Pilar Camargo Márquez_
 * Diseño responsive.
 * Debe ver bien tanto en dispositivos de escritorio como en dispositivos móviles.
 
-_Funcionalidades Plus:_
+### Funcionalidades Plus:
 * Modal
 * Slider
 * Menú hamburguesa.
@@ -32,16 +32,6 @@ _Funcionalidades Plus:_
 Tras su instalación se desplegará los siguientes archivos así:
 
 ```
-FrontEnd-Designer/
-├── css/
-|   └── styles.css
-├── img/
-|   └── images, logo, favicon...
-├── screenshots/
-|   └── images...
-└── index.html
-└── README.md
-
 agencyweb-laboratoria/
 ├── components/
 |   └── atoms/
@@ -78,7 +68,7 @@ Tras su instalación se desplegará los siguientes archivos así:
 
 ## Contenido Multimedia
 
-Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, fotos, etc.) fueron tomados de [Agency Web - Landing page design](https://www.figma.com/community/file/1058767686059595687/Agency-Web---Landing-page-design) de [Sanoj Dilshan](https://www.sanojdilshan.com/).
+Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, fotos, etc.), así como el diseño de la página fueron tomados de [Agency Web - Landing page design](https://www.figma.com/community/file/1058767686059595687/Agency-Web---Landing-page-design) de [Sanoj Dilshan](https://www.sanojdilshan.com/).
 
 
 ## Repositorio GitHub 
