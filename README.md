@@ -2,18 +2,18 @@
 
 _Objetivo: Como parte del programa de Mentorías de Diseño UX de Laboratoria._
 
-_Presentada por: Nombre y apellidos de la persona que presenta la prueba_
-- [Página personal](https://)
-- [GitHub](https://github.com/)
-- [LinkedIn](https://www.linkedin.com/)
+_Creado por: Pilar Camargo Márquez_
+<br />
+[Website](https://about.me/justoneye) | [GitHub](https://github.com/justoneye) | [LinkedIn](https://www.linkedin.com/in/pilarcamargo)
+<br /><br />
 
 
 ## Herramientas utilizadas
 
-- HTML 5
-- CSS 3
-- React 17.0.2
-- Bootstrap 5.1.3
+- `HTML 5`
+- `CSS 3`
+- `React 0.0.0`
+- `Bootstrap 0.0.0`
 
 
 ## Requisitos
@@ -32,33 +32,42 @@ _Funcionalidades Plus:_
 Tras su instalación se desplegará los siguientes archivos así:
 
 ```
+FrontEnd-Designer/
+├── css/
+|   └── styles.css
+├── img/
+|   └── images, logo, favicon...
+├── screenshots/
+|   └── images...
+└── index.html
+└── README.md
+
 agencyweb-laboratoria/
-  README.md
-  node_modules/
-  components/
-    atoms/
-    ...
-    molecules/
-    ...
-    organisms/
-    ...
-    templates/
-    ...
-  multimedia/
-    ...
-  package.json
-  public/
-    index.html
-    ...
-  pages/
-    ...
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
+├── components/
+|   └── atoms/
+|       ... 
+|   └── molecules/
+|       ... 
+|   └── organisms/
+|       ... 
+|   └── templates/
+|       ... 
+├── multimedia/
+|   └── imágenes, íconos, logos, fotos, etc.
+├── public/
+|   └── index.html
+|       ...
+├── pages/
+|   ...
+├── src/
+|   └── App.css
+|   └── App.js 
+|   └── index.css  
+|   └── index.js
+|   └── logo.svg
+└── README.md
+└── node_modules/
+└── package.json   
 ```
 
 
@@ -69,9 +78,7 @@ Tras su instalación se desplegará los siguientes archivos así:
 
 ## Contenido Multimedia
 
-Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, etc.) fueron tomados de _(Indicar el documento de orígen de donde se tomó el diseño original)_ y los siguientes recursos gratuitos o libres _(Si se usaron recursos extra no contemplados en la fuente)_:
-
-- Nombre de página (Link con la página web donde se encuentran los recursos) (https://)
+Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, fotos, etc.) fueron tomados de [Agency Web - Landing page design](https://www.figma.com/community/file/1058767686059595687/Agency-Web---Landing-page-design) de [Sanoj Dilshan](https://www.sanojdilshan.com/).
 
 
 ## Repositorio GitHub 
