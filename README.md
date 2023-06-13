@@ -1,10 +1,6 @@
-# README-project-template
-README-project-template
+# Agency Web - Laboratoria
 
-
-# Nombre del Proyecto
-
-_Objetivo: Realizar la página web con sus estilos respectivos en React basándose en el diseño compartido en [Figma](https://www.figma.com/file/uZxPKPcmFh7or2ln9G6tS0/Prueba-t%C3%A9cnica-2021-Octubre?node-id=0%3A1)._
+_Objetivo: Como parte del programa de Mentorías de Diseño UX de Laboratoria._
 
 _Presentada por: Nombre y apellidos de la persona que presenta la prueba_
 - [Página personal](https://)
@@ -36,12 +32,20 @@ _Funcionalidades Plus:_
 Tras su instalación se desplegará los siguientes archivos así:
 
 ```
-my-app/
+agencyweb-laboratoria/
   README.md
   node_modules/
   components/
+    atoms/
+    ...
+    molecules/
+    ...
+    organisms/
+    ...
+    templates/
     ...
   multimedia/
+    ...
   package.json
   public/
     index.html
@@ -72,4 +76,4 @@ Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página 
 
 ## Repositorio GitHub 
 
-https://github.com/Usuario-GitHub/link-repositorio
+https://github.com/justoneye/AgencyWeb-Laboratoria
