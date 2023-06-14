@@ -1,6 +1,7 @@
 # Agency Web - Laboratoria
 
-_Objetivo: Como parte del programa de Mentorías de Diseño UX de Laboratoria._
+_Objetivo: Como parte del Bootcamp de formación de [Diseño UX](https://postula.laboratoria.la/bootcamp/diseno-ux) importido por [Laboratoria](https://www.laboratoria.la/), las mentorías como acompañamiento con personas externas que brindarán herramientas y feedback como preparación a los procesos de reclutamiento que enfrentarán.
+._
 
 _Creado por: Pilar Camargo Márquez_
 <br />
@@ -13,18 +14,31 @@ _Creado por: Pilar Camargo Márquez_
 - `HTML 5`
 - `CSS 3`
 - `React 0.0.0`
-- `Bootstrap 0.0.0`
+- `Ant Design 5.0`
 
 
 ## Requisitos
 
-* Diseño responsive.
-* Debe ver bien tanto en dispositivos de escritorio como en dispositivos móviles.
+* Home.
+* Acerca de.
+* 
 
 ### Funcionalidades Plus:
-* Modal
-* Slider
-* Menú hamburguesa.
+* Diseño responsive.
+* Construido por.
+
+
+
+## Instalación
+
+Usa el gestor de paquetes [npm](https://www.npmjs.com/) para instalar el proyecto.
+
+```
+$ git clone https://github.com/justoneye/AgencyWeb-Laboratoria
+$ cd ../agencyweb-laboratoria/
+$ npm install
+$ npm start
+```
 
 
 ## Estructura del Archivo
@@ -35,6 +49,9 @@ Tras su instalación se desplegará los siguientes archivos así:
 agencyweb-laboratoria/
 ├── components/
 |   └── atoms/
+|   |   └── Button/
+|   |   |   └── Button.css
+|   |   |   └── Button.js 
 |       ... 
 |   └── molecules/
 |       ... 
@@ -55,21 +72,10 @@ agencyweb-laboratoria/
 |   └── index.css  
 |   └── index.js
 |   └── logo.svg
-└── README.md
 └── node_modules/
+|   ... 
+└── README.md
 └── package.json   
-```
-
-
-## Instalación
-
-Usa el gestor de paquetes [npm](https://www.npmjs.com/) para instalar el proyecto.
-
-```
-$ git clone https://github.com/justoneye/AgencyWeb-Laboratoria
-$ cd ../agencyweb-laboratoria/
-$ npm install
-$ npm start
 ```
 
 
