@@ -1,7 +1,6 @@
 # Agency Web - Laboratoria
 
-_Objetivo: Como parte del Bootcamp de formación de [Diseño UX](https://postula.laboratoria.la/bootcamp/diseno-ux) importido por [Laboratoria](https://www.laboratoria.la/), las mentorías como acompañamiento con personas externas que brindarán herramientas y feedback como preparación a los procesos de reclutamiento que enfrentarán.
-._
+_Objetivo: Como parte del Bootcamp de formación de [Diseño UX](https://postula.laboratoria.la/bootcamp/diseno-ux) importido por [Laboratoria](https://www.laboratoria.la/), las mentorías cuentan con acompañamiento con personas externas con experiencia en el área de la tecnología que brindarán herramientas y feedback como preparación a los procesos de reclutamiento que enfrentarán para iniciar su búsqueda de empleo._
 
 _Creado por: Pilar Camargo Márquez_
 <br />
@@ -20,12 +19,13 @@ _Creado por: Pilar Camargo Márquez_
 ## Requisitos
 
 * Home.
-* Acerca de.
-* 
+* Sobre Nosotros.
+* Nuestros servicios.
+* Vacantes.
 
-### Funcionalidades Plus:
+### Características:
 * Diseño responsive.
-* Construido por.
+* Construido con Atomic Design.
 
 
 
