@@ -63,7 +63,14 @@ agencyweb-laboratoria/
 
 ## Instalación
 
-Tras su instalación se desplegará los siguientes archivos así:
+Usa el gestor de paquetes [npm](https://www.npmjs.com/) para instalar el proyecto.
+
+```
+$ git clone https://github.com/justoneye/AgencyWeb-Laboratoria
+$ cd ../agencyweb-laboratoria/
+$ npm install
+$ npm start
+```
 
 
 ## Contenido Multimedia
