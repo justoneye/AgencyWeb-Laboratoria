@@ -81,7 +81,7 @@ agencyweb-laboratoria/
 
 ## Contenido Multimedia
 
-Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, fotos, etc.), así como el diseño de la página fueron tomados de [Agency Web - Landing page design](https://www.figma.com/community/file/1058767686059595687/Agency-Web---Landing-page-design) de [Sanoj Dilshan](https://www.sanojdilshan.com/).
+Para efectos prácticos y llevar a cabo el ejercicio el contenido de la página (imágenes, íconos, logos, fotos, etc.), así como el diseño de la página fueron basados en el diseño de [Agency Web - Landing page design](https://www.figma.com/community/file/1058767686059595687/Agency-Web---Landing-page-design) hecho por [Sanoj Dilshan](https://www.sanojdilshan.com/).
 
 
 ## Repositorio GitHub 
