@@ -37,7 +37,7 @@ Usa el gestor de paquetes [npm](https://www.npmjs.com/) para instalar el proyect
 $ git clone https://github.com/justoneye/AgencyWeb-Laboratoria
 $ cd ../agencyweb-laboratoria/
 $ npm install
-$ npm start
+$ npm run dev
 ```
 
 
